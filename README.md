@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ⚡ A passionate fullstack web developer <br>
 🔭 23' grad in Computer Science from McMaster University<br>
 🌱 I’m currently learning **VueJS, NextJS, Golang**<br>
-📫 How to reach me: jiexulin99@gmail.com | [LinkedIn](https://linkedin.com/in/jiexulin) <br>
+📫 How to reach me: jiexulin99@gmail.com <br>
 😄 Personal Blog: [joshlin.me](https://joshlin.me) <br>
 💬 Ask me about anything!<br>
 ⚡ ...
