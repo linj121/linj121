@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ⚡ A passionate fullstack web developer <br>
 🔭 I'm currently open to work, feel free to reach out to me!<br>
-🌱 I’m currently learning **NextJS, Golang**<br>
+🌱 I’m currently learning **Golang**<br>
 📫 How to reach me: jiexulin99@gmail.com <br>
 😄 Personal Blog: [joshlin.me](https://joshlin.me) <br>
 💬 Ask me about anything!<br>
