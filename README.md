@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=linj121&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" />
 
-⚡ A passionate fullstack web developer <br>
+⚡ A passionate software developer <br>
 🔭 I'm currently open to work, feel free to reach out to me!<br>
 🌱 I’m currently learning **Golang**<br>
 📫 How to reach me: jiexulin99@gmail.com <br>
